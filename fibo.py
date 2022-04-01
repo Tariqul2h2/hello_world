@@ -12,4 +12,4 @@ def fib1(n):
         res.append(a)
         a,b = b,a+b
     return res
-fib1(5)
+fib1(10)
